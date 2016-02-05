@@ -1,3 +1,0 @@
-# Overcharge Platform Kit
-
-An SDK for Overcharge Gaming...
